@@ -61,6 +61,7 @@ Datasets have been provided by the team at GA and consists of 'sat_2017.csv', 'a
 
 ## Conclusions and Recommendations
 Based on your exploration of the data, what are you key takeaways and recommendations? 
+
 **Answer:**
 
 Key takwaways and recommendations:
